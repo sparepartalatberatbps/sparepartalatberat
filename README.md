@@ -1,6 +1,4 @@
 
-<!DOCTYPE html>
-<!--[if IE 9]><html class="ie9"><![endif]--><!--[if !IE]><!-->
 <html>
 <!--<![endif]-->
 		<head>
@@ -35,24 +33,7 @@
 
 </script>        </head>
         <body class="push-menu"><div id="mobile-menu-container">
-        <div class="mobile-menu-title">NAVIGATION 
-        <a href="" id="mobile-menu-close">&times;</a>
-        </div>
-        	<ul class="mobile-menu">
-            				<li class="active"><a href="sparepartalatberat.html">Home</a></li>
-                                        <li><a href="profile.html">Profile</a></li>
-                                        <li><a href="product.html">Product </a></li>
-                                        <ul>                                    
-										<li><a href="caterpillar.html">Spare Part Caterpillar</a></li>  
-                                        <li><a href="komatsu.html">Spare Part Komatsu</a></li>
-                                        <li><a href="kobelco.html">Spare Part Kobelco</a></li>
-                                        <li><a href="hitachi.html">Spare Part Hitachi</a></li> 
-                                        </ul>
-                                        <li><a href="iklan-baris.html">Iklan Baris</a></li>
-                                        <li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="contact-us.html">Contact Us</a></li>                    
-                    </ul></div><div id="mobile-menu-overlay"></div><div id="wrapper">
-                    <header class="header">
+                            <header class="header">
                     	<div class="header-top">
                         	<div class="container">
                     			<div class="header-left">
@@ -66,12 +47,6 @@
 JUAL SPARE PART ALAT BERAT KOMATSU<br/><br/>
 CATERPILLAR, KOBELCO, HITACHI BERGARANSI <br/><br/>
 DI JAKARTA - INDONESIA</h4>
-<h2><strong>Marketing Division :</strong></h2>
-<button class="btn btn-info btn-lg"><strong><span style="color: #fff;"><a id="primary_cta" class="btn btn--primary site-cta-link" style="color: #fff;" tabindex="0" href="tel:08111202112" data-tracking-element-type="1"><span id="primary_cta_1_desktop" class="" dir="ltr"><strong>Ayu&nbsp; &nbsp;:&nbsp; &nbsp; 0811-1202-112&nbsp;</strong></span></a>&nbsp; &nbsp; &nbsp; &nbsp;</span></strong><i class=""></i></button>
-
-<button class="vbtn btn-info btn-lg"><strong><span style="color: #fff;"><a id="primary_cta" class="btn btn--primary site-cta-link" style="color: #fff;" tabindex="0" href="tel:08119690038" data-tracking-element-type="1"><span id="primary_cta_1_desktop" class="" dir="ltr"><strong>Yusak&nbsp; &nbsp;:&nbsp; &nbsp; 0811-9690-038&nbsp;</strong></span></a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong><i class="t"></i></button>
-   
-<button class="vbtn btn-info btn-lg"><strong><span style="color: #fff;"><a id="primary_cta" class="btn btn--primary site-cta-link" style="color: #fff;" tabindex="0" href="tel:081290590970" data-tracking-element-type="1"><span id="primary_cta_1_desktop" class="" dir="ltr"><strong>Gunawan&nbsp; &nbsp;:&nbsp; &nbsp; 0812-9059-0970&nbsp;</strong></span></a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong><i class=""></i></button>
                           
 <h3 align="justify">PT BLESSINDO PRIMA SARANA </h3>
 <h3 align="justify">Distributor <a href="http://sparepartalatberat.com/sparepartalatberat.html">SPARE PART ALAT BERAT </a></li> | Jual Spare Part Alat Berat | Spare Part Heavy Equipment Hydraulic Excavator, Motor Grader, Bulldozer</h3>
@@ -1873,5 +1848,3 @@ $(function(){"use strict";$("#layerslider").layerSlider({responsiveUnder:1200,la
 <a href="http://sparepartalatberat.com/komatsu.html"> </a>
 <a href="http://sparepartalatberat.com/kobelco.html"> </a>
 <a href="http://sparepartalatberat.com/hitachi.html"> </a>
-
-</html>
