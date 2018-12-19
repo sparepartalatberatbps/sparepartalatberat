@@ -88,27 +88,8 @@ Kritik dan saran untuk seluruh pelayanan manajemen perusahaan kami bisa disampai
 				</div>
 			</div>
 		</footer>
-	</div>
-<a id="scroll-top" href="#top" title="Scroll top">
-	<i class="fa fa-angle-up"></i>
-</a>
-	<script src="assets/js/plugins.min.js"></script>
-    <script src="assets/js/twitter/jquery.tweet.min.js"></script>
-    <script src="assets/js/greensock.js"></script>
-    <script src="assets/js/layerslider.transitions.js"></script><script src="assets/js/layerslider.kreaturamedia.jquery.js"></script>
-    <script src="assets/js/main.js"></script>
-<script>
-$(function(){"use strict";$("#layerslider").layerSlider({responsiveUnder:1200,layersContainer:1200,skinsPath:"assets/css/skins/",navButtons:!0,navStartStop:!1,showCircleTimer:!0,thumbnailNavigation:"disabled",skin:"thelegend"})});
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122842732-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	
 
-  gtag('config', 'UA-122842732-1');
-</script>
 <a href="https://blessindo.com/spare-part-hitachi-sparepart-hitachi/"> </a>
 <a href="https://blessindo.com/spare-part-hitachi-spare-part-hitachi-indonesia/"> </a>
 <a href="https://blessindo.com/sparepart-hitachi-spare-part-hitachi/"> </a>
