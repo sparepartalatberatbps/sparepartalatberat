@@ -1805,7 +1805,7 @@ $(function(){"use strict";$("#layerslider").layerSlider({responsiveUnder:1200,la
 <a href="http://sparepartalatberat.com/kobelco.html"> </a>
 <a href="http://sparepartalatberat.com/hitachi.html"> </a>
 
-<html>
+
 <!--<![endif]-->
 		<head>
 		    <meta name="msvalidate.01" content="B41CC22A23A0CDD9EFA0401A8FAC5BF7" />
@@ -1849,3 +1849,5 @@ $(function(){"use strict";$("#layerslider").layerSlider({responsiveUnder:1200,la
                                     <h2><i class="fa fa-phone"></i> (021) 62202518 (Hunting), 6002405, 6002406</h2>	
                                 </div>
                         <div class="header-right"><br/>
+<html>
+
