@@ -4,7 +4,7 @@ JUAL SPARE PART ALAT BERAT KOMATSU<br/><br/>
 CATERPILLAR, KOBELCO, HITACHI BERGARANSI <br/><br/>
 DI JAKARTA - INDONESIA</h4>
                           
-<h3 align="justify">PT BLESSINDO PRIMA SARANA </h3>
+<h3 align="justify">PT BLESSINDO PRIMA SARANA  021-62202518</h3>
 <h3 align="justify">Distributor <a href="http://sparepartalatberat.com/sparepartalatberat.html">SPARE PART ALAT BERAT </a></li> | Jual Spare Part Alat Berat | Spare Part Heavy Equipment Hydraulic Excavator, Motor Grader, Bulldozer</h3>
 <p align="justify">
 PT. Blessindo Prima Sarana merupakan distributor (supplier) spare part alat berat terlengkap di Jakarta. Menjual spare part alat berat untuk unit Excavator, Bulldozer, Wheel Loader dan Motor Grader.<br/><br/>
